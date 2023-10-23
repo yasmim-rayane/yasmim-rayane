@@ -1,4 +1,4 @@
-<h1>😸 Olá, sou a Yasmim, desenvolvedora front-end!</h1>
+<h1>😸 Hello, I am Yasmim, front-end developer!</h1>
 
 <div>
   <p allign="center">
