@@ -25,15 +25,3 @@ Front-end developer and always studying
 ![AdobeIllustrator](https://img.shields.io/badge/-Adobe%20Illustrator-333333?style=flat&logo=adobeillustrator)
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobephotoshop)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
-<!---
-- 👋 Hi, I’m @yasmim-rayane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-yasmim-rayane/yasmim-rayane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
