@@ -21,6 +21,7 @@ Front-end developer and always studying
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 
 ![AdobeIllustrator](https://img.shields.io/badge/-Adobe%20Illustrator-333333?style=flat&logo=adobeillustrator)
 ![AdobePhotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobephotoshop)
