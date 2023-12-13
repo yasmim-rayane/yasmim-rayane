@@ -11,7 +11,7 @@
 
 ```diff
 Front-end developer and always studying
-18 years old
+19 years old
 🇧🇷 Living in Alexandria, Rio Grande do Norte, Brazil
 ```
 
