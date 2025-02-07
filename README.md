@@ -1,18 +1,18 @@
-<h1>😸 Hello, I am Yasmim, front-end developer!</h1>
+<h1>😸 Howdy! I am Ray, a front-end developer.</h1>
 
 <div>
   <p allign="center">
-    <a href="https://www.linkedin.com/in/yasmim-rayane-8953b127b/" target="_blank"><img src="https://img.shields.io/badge/-Yasmim%20Rayane-0077B5?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"/></a>
+    <a href="https://www.linkedin.com/in/yasmim-rayane-189970325/" target="_blank"><img src="https://img.shields.io/badge/-Yasmim%20Rayane-0077B5?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"/></a>
     <a href="https://twitter.com/ryasmim_" target="_blank"><img src="https://img.shields.io/twitter/follow/ryasmim_" target="_blank"></a>
     <a href="mailto:silva.yasmimray@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-silva.yasmimray@gmail.com-D14836?style=for-the-badge-square&logo=Gmail&logoColor=white" target="_blank"/></a>
   </p>
 
-<h2>✨ About</h2>
+<h2>✨ About me!</h2>
 
 ```diff
-Front-end developer and always studying
-19 years old
-🇧🇷 Living in Alexandria, Rio Grande do Norte, Brazil
+% Front-end developer and always studying
+% 20 years old
+% Santos, São Paulo, Brazil
 ```
 
 <h2>📖 Knowledge</h2>
