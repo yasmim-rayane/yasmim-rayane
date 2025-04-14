@@ -18,20 +18,20 @@
 <h2>🚀 Tech Stack</h2>
 <h3>🖥️ Front-end</h3>
 
-![HTML](https://img.shields.io/badge/HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=Bootstrap)
+![HTML](https://img.shields.io/badge/HTML5-333333?style=for-the-badge-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-333333?style=for-the-badge-square&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge-square&logo=Bootstrap)
 
 <h3>🖥️ Back-end</h3>
 
-![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-java-333333?style=for-the-badge-square&logo=openjdk&logoColor=white)
 
 <h3>🎨 Design</h3>
 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge-square&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge-square&logo=adobe%20photoshop)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge-square&logo=figma)
 
 <h2></h2>
 <div align="center"><br>
