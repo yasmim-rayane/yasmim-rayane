@@ -22,6 +22,7 @@ Currently exploring React and advanced JavaScript
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-C95C95?style=for-the-badge&logo=sass&logoColor=white)
 
 <h3>🖥️ Back-end</h3>
 
