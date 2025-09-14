@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/yasmimrayane" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/yasmimrayane" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://twitter.com/ryasmim_" target="_blank">Twitter</a> &nbsp;|&nbsp;
   <a href="mailto:silva.yasmimray@gmail.com" target="_blank">Email</a>
 </p>
