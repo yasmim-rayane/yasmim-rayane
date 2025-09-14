@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasmim-rayane-189970325/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="www.linkedin.com/in/yasmimrayane" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://twitter.com/ryasmim_" target="_blank">Twitter</a> &nbsp;|&nbsp;
   <a href="mailto:silva.yasmimray@gmail.com" target="_blank">Email</a>
 </p>
@@ -27,10 +27,10 @@ HTML5 · CSS3 · JavaScript · Sass · Bootstrap · Java · C++
 Figma · Adobe Illustrator · Adobe Photoshop
 
 **Currently Learning:**  
-React · Node.js · Git & GitHub
+React · C# · Git 
 
 ---
 
 <p align="center" style="color:#888;">
-  "First, solve the problem. Then, write the code." – John Johnson
+  "First, solve the problem. Then, write the code", John Johnson.
 </p>
