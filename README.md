@@ -15,7 +15,7 @@
 
 I'm a front-end developer based in Santos, Brazil.  
 I focus on building accessible, beautiful web experiences with a strong attention to detail and user experience.  
-Currently, I'm exploring React and advanced JavaScript concepts.
+Currently, I'm exploring React and advanced JavaScript concepts.  
 Bachelor’s Degree in Computer Engineering at Universidade Santa Cecília.
 
 ---
