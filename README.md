@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yasmimrayane" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://twitter.com/ryasmim_" target="_blank">Twitter</a> &nbsp;|&nbsp;
-  <a href="mailto:silva.yasmimray@gmail.com" target="_blank">Email</a>
+  <a href="mailto:silva.yasmimray@gmail.com" target="_blank">E-mail</a> &nbsp;|&nbsp;
+  <a href="https://yasmim-rayane.github.io/portfolio-front-end-parte1/" target="_blank">Portfolio</a>
 </p>
 
 ---
