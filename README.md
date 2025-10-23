@@ -28,7 +28,7 @@ HTML5 · CSS3 · JavaScript · Sass · Bootstrap · Java · C++
 Figma · Adobe Illustrator · Adobe Photoshop
 
 **Currently Learning:**  
-React · C# · Git 
+SQL Server · C# · Git 
 
 ---
 
