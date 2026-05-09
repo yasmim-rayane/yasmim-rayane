@@ -26,7 +26,7 @@ HTML5 · CSS3 · JavaScript · Sass · Bootstrap · C++ · Python
 **Design:**  
 Figma · Adobe Illustrator · Adobe Photoshop
 
-**Softwares:**
+**Softwares:**  
 Power BI · Power Apps · Power Automate
 
 **Currently Learning:**  
