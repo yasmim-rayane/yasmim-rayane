@@ -2,7 +2,7 @@
   Yasmim Rayane
 </h1>
 <p align="center" style="color:#888; font-size:1.2rem;">
-  Front-End Developer &nbsp;·&nbsp; UI/UX &nbsp;·&nbsp; Creative Coder
+  Electronics & Web Developer &nbsp;·&nbsp; UI/UX
 </p>
 
 <p align="center">
@@ -14,21 +14,23 @@
 
 ---
 
-I'm a front-end developer based in Santos, Brazil.  
-I focus on building accessible, beautiful web experiences with a strong attention to detail and user experience.  
-Currently, I'm exploring React and advanced JavaScript concepts.  
+I'm a Electronics & Web Developer based in Santos, Brazil.  
+I focus on building accessible user experiences with a strong attention to detail.    
 Bachelor’s Degree in Computer Engineering at Universidade Santa Cecília.
 
 ---
 
-**Languages & Frameworks:**  
-HTML5 · CSS3 · JavaScript · Sass · Bootstrap · Java · C++
+**Languages and Frameworks:**  
+HTML5 · CSS3 · JavaScript · Sass · Bootstrap · C++ · Python
 
 **Design:**  
 Figma · Adobe Illustrator · Adobe Photoshop
 
+**Softwares:**
+Power BI · Power Apps · Power Automate
+
 **Currently Learning:**  
-SQL Server · C# · Git 
+SQL Server · Git 
 
 ---
 
