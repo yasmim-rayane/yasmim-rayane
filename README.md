@@ -21,7 +21,7 @@ Bachelor’s Degree in Computer Engineering at Universidade Santa Cecília.
 ---
 
 **Languages and Frameworks:**  
-HTML5 · CSS3 · JavaScript · Sass · Bootstrap · C++ · Python
+HTML5 · CSS3 · JavaScript · Sass · Bootstrap · C/C++ · Python
 
 **Design:**  
 Figma · Adobe Illustrator · Adobe Photoshop
